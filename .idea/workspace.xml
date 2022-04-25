@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6adb150d-768c-40a2-a245-41b1accb7ce7" name="Changes" comment="test&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="sad1234558 &lt;52356708+sad1234558@users.noreply.github.com&gt;" />
+        <option value="GoldieAi &lt;102837040+goldieai@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="edd7833c70ef5cc5308ec43fd807069246226320" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="e39463f0881a25981687ecbcd32b58d2e70d2d36" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="27AxGgzxlvVLF6YQgGuwxQJFyFw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Testing" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/lib/intellij-coverage-agent-1.0.613.jar" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jediterm-bash.in" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/plugins/terminal/jediterm-bash.in" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/plugins/terminal" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Shell Script.jediterm-bash.in" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.jediterm-bash.in" />
+        <item itemvalue="Shell Script.jediterm-bash.in" />
+        <item itemvalue="Shell Script.jediterm-bash.in" />
+        <item itemvalue="Shell Script.jediterm-bash.in" />
+        <item itemvalue="Shell Script.jediterm-bash.in" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6adb150d-768c-40a2-a245-41b1accb7ce7" name="Changes" comment="" />
+      <created>1648776597149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648776597149</updated>
+    </task>
+    <task id="LOCAL-00013" summary="uy">
+      <created>1650940792204</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1650940792204</updated>
+    </task>
+    <task id="LOCAL-00014" summary="uy">
+      <created>1650940794865</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1650940794865</updated>
+    </task>
+    <task id="LOCAL-00015" summary="uy">
+      <created>1650940796774</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1650940796774</updated>
+    </task>
+    <task id="LOCAL-00016" summary="uy">
+      <created>1650940798377</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1650940798377</updated>
+    </task>
+    <task id="LOCAL-00017" summary="uy">
+      <created>1650940800124</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1650940800124</updated>
+    </task>
+    <task id="LOCAL-00018" summary="uy">
+      <created>1650940803115</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1650940803115</updated>
+    </task>
+    <task id="LOCAL-00019" summary="uy">
+      <created>1650940805768</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1650940805768</updated>
+    </task>
+    <task id="LOCAL-00020" summary="uy">
+      <created>1650940838660</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1650940838660</updated>
+    </task>
+    <task id="LOCAL-00021" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650940844554</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1650940844554</updated>
+    </task>
+    <task id="LOCAL-00022" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650940996801</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1650940996801</updated>
+    </task>
+    <task id="LOCAL-00023" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650941088050</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1650941088050</updated>
+    </task>
+    <task id="LOCAL-00024" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650941204342</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1650941204342</updated>
+    </task>
+    <task id="LOCAL-00025" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650941251391</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1650941251391</updated>
+    </task>
+    <task id="LOCAL-00026" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650941255567</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1650941255567</updated>
+    </task>
+    <task id="LOCAL-00027" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650941258666</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1650941258666</updated>
+    </task>
+    <task id="LOCAL-00028" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650941346600</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1650941346600</updated>
+    </task>
+    <task id="LOCAL-00029" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650941429229</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1650941429229</updated>
+    </task>
+    <task id="LOCAL-00030" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650941526032</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1650941526032</updated>
+    </task>
+    <task id="LOCAL-00031" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650941687309</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1650941687309</updated>
+    </task>
+    <task id="LOCAL-00032" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650943222658</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1650943222658</updated>
+    </task>
+    <task id="LOCAL-00033" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650943565710</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1650943565710</updated>
+    </task>
+    <task id="LOCAL-00034" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650943666073</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1650943666073</updated>
+    </task>
+    <task id="LOCAL-00035" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650943791945</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1650943791945</updated>
+    </task>
+    <task id="LOCAL-00036" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650943906916</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1650943906916</updated>
+    </task>
+    <task id="LOCAL-00037" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650944245268</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1650944245268</updated>
+    </task>
+    <task id="LOCAL-00038" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650944655222</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1650944655222</updated>
+    </task>
+    <task id="LOCAL-00039" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650945468464</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1650945468464</updated>
+    </task>
+    <task id="LOCAL-00040" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650946549385</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1650946549385</updated>
+    </task>
+    <task id="LOCAL-00041" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650947163381</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1650947163381</updated>
+    </task>
+    <task id="LOCAL-00042" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650947173440</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1650947173440</updated>
+    </task>
+    <task id="LOCAL-00043" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650981494987</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1650981494987</updated>
+    </task>
+    <task id="LOCAL-00044" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650981674245</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1650981674245</updated>
+    </task>
+    <task id="LOCAL-00045" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1650982083053</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1650982083053</updated>
+    </task>
+    <task id="LOCAL-00046" summary="uy">
+      <created>1651006912665</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1651006912665</updated>
+    </task>
+    <task id="LOCAL-00047" summary="uy">
+      <created>1651016251724</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1651016251724</updated>
+    </task>
+    <task id="LOCAL-00048" summary="test">
+      <created>1651100512533</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1651100512533</updated>
+    </task>
+    <task id="LOCAL-00049" summary="test&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1651100519893</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1651100519893</updated>
+    </task>
+    <task id="LOCAL-00050" summary="test&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1651100524285</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1651100524285</updated>
+    </task>
+    <task id="LOCAL-00051" summary="dsfa">
+      <created>1651100604330</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1651100604331</updated>
+    </task>
+    <task id="LOCAL-00052" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1651100640795</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1651100640795</updated>
+    </task>
+    <task id="LOCAL-00053" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1651100667954</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1651100667954</updated>
+    </task>
+    <task id="LOCAL-00054" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1651100672267</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1651100672267</updated>
+    </task>
+    <task id="LOCAL-00055" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1651100677145</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1651100677145</updated>
+    </task>
+    <task id="LOCAL-00056" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1651100699173</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1651100699173</updated>
+    </task>
+    <task id="LOCAL-00057" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1651100713906</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1651100713906</updated>
+    </task>
+    <task id="LOCAL-00058" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1651100721057</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1651100721057</updated>
+    </task>
+    <task id="LOCAL-00059" summary="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1651100724455</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1651100724455</updated>
+    </task>
+    <task id="LOCAL-00060" summary="test&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1651100758472</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1651100758473</updated>
+    </task>
+    <task id="LOCAL-00061" summary="test&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;">
+      <created>1651100762664</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1651100762664</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
+    <servers />
+  </component>
+  <component name="ToolsProjectConfig">
+    <afterCommitToolId>Tool_External Tools_Click</afterCommitToolId>
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="yes" />
+    <MESSAGE value="uy" />
+    <MESSAGE value="Merge branch 'y3'&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;&#10;&#10;# Conflicts:&#10;#&#9;.idea/PyCharm Community Edition 2021.3.2.iml&#10;#&#9;.idea/modules.xml&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="test" />
+    <MESSAGE value="dsfa" />
+    <MESSAGE value="uy&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;" />
+    <MESSAGE value="test&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="test&#10;&#10;Signed-off-by: GoldieAi &lt;102837040+GoldieAi@users.noreply.github.com&gt;" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Testing/Lib/http/client.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" log-message="true" log-stack="true" suspend="NONE" type="python-exception">
+          <properties notifyOnlyOnFirst="true" notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+            <option name="notifyOnlyOnFirst" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
