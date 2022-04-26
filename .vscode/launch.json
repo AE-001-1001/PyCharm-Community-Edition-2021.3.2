@@ -1,5 +1,12 @@
 {
     "configurations": [
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${D:D:IntelliJ IDEA Community Edition 2021.3.3}"
+        },
     {
         "name": "PowerShell Interactive Session",
         "type": "PowerShell",
