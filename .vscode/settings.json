@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 999,
+            "server": "https://robinhood.com/us/en/",
+            "port": 5500,
+            "driver": "MariaDB",
+            "name": "Robinhood.com",
+            "username": "VerbalKill",
+            "database": "Robinhood.com",
+            "password": "Plopper2004$$"
+        }
+    ]
+}
