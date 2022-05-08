@@ -1,0 +1,415 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision e49eba9b072104bbd5d0520065ec6bece5745ad0)
++++ b/.idea/workspace.xml	(date 1651977783828)
+@@ -5,27 +5,35 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="824c6e90-6b3e-4b88-8b73-b083c10ab5d6" name="Changes" comment="Message">
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <changelist_data name="GoldieAi" email="102837040+goldieai@users.noreply.github.com" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="Git.Merge.Settings">
++    <option name="BRANCH" value="origin/master" />
+   </component>
+   <component name="Git.Settings">
+     <option name="PREVIOUS_COMMIT_AUTHORS">
+       <list>
+         <option value="GoldieAi &lt;102837040+goldieai@users.noreply.github.com&gt;" />
+       </list>
++    </option>
++    <option name="PUSH_TAGS">
++      <GitPushTagMode>
++        <option name="argument" value="--tags" />
++        <option name="title" value="All" />
++      </GitPushTagMode>
+     </option>
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="889652ee1236dc302f5930765a04cd5a27e6679a" />
++        <entry key="$PROJECT_DIR$" value="master" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="SIGN_OFF_COMMIT" value="true" />
+     <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+@@ -39,17 +47,17 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ASKED_ADD_EXTERNAL_FILES": "true",
+-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "last_opened_file_path": "C:/Users/Andrew/PycharmProjects/PyCharm-Community-Edition-2021.3.2",
+-    "run.code.analysis.last.selected.profile": "aDefault"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
++    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/Andrew/PycharmProjects/PyCharm-Community-Edition-2021.3.2&quot;,
++    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\Users\Andrew\PycharmProjects\PyCharm-Community-Edition-2021.3.2\IntelliJ IDEA Community Edition 2021.3.3" />
+@@ -77,6 +85,70 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
++    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
++      <module name="Google" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration default="true" type="Tox" factoryName="Tox">
++      <module name="Google" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <method v="2" />
++    </configuration>
++    <configuration default="true" type="docs" factoryName="Docutils task">
++      <module name="Google" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="docutils_input_file" value="" />
++      <option name="docutils_output_file" value="" />
++      <option name="docutils_params" value="" />
++      <option name="docutils_task" value="" />
++      <option name="docutils_open_in_browser" value="false" />
++      <method v="2" />
++    </configuration>
++    <configuration default="true" type="docs" factoryName="Sphinx task">
++      <module name="Google" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="docutils_input_file" value="" />
++      <option name="docutils_output_file" value="" />
++      <option name="docutils_params" value="" />
++      <option name="docutils_task" value="" />
++      <option name="docutils_open_in_browser" value="false" />
++      <method v="2" />
++    </configuration>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+@@ -101,9 +173,68 @@
+       <option name="project" value="LOCAL" />
+       <updated>1651976184795</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="Create codeql-analysis.yml">
++      <created>1651977310570</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1651977310570</updated>
++    </task>
++    <task id="LOCAL-00004" summary="Create codeql-analysis.yml&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;">
++      <created>1651977318655</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1651977318655</updated>
++    </task>
++    <task id="LOCAL-00005" summary="Create codeql-analysis.yml&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;">
++      <created>1651977329408</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1651977329408</updated>
++    </task>
++    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'">
++      <created>1651977369060</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1651977369060</updated>
++    </task>
++    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;">
++      <created>1651977376784</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1651977376784</updated>
++    </task>
++    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;">
++      <created>1651977398296</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1651977398296</updated>
++    </task>
++    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;">
++      <created>1651977405379</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1651977405379</updated>
++    </task>
++    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/master'">
++      <created>1651977537828</created>
++      <option name="number" value="00010" />
++      <option name="presentableId" value="LOCAL-00010" />
++      <option name="project" value="LOCAL" />
++      <updated>1651977537828</updated>
++    </task>
++    <option name="localTasksCounter" value="11" />
+     <servers />
+   </component>
++  <component name="UpdateCopyrightCheckinHandler">
++    <option name="UPDATE_COPYRIGHT" value="true" />
++  </component>
+   <component name="Vcs.Log.Tabs.Properties">
+     <option name="TAB_STATES">
+       <map>
+@@ -116,8 +247,19 @@
+     </option>
+   </component>
+   <component name="VcsManagerConfiguration">
++    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
++    <option name="CODE_SMELLS_PROFILE" value="Default" />
++    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Default" />
++    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
++    <MESSAGE value="Create codeql-analysis.yml" />
++    <MESSAGE value="Create codeql-analysis.yml&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;" />
++    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;" />
++    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+     <MESSAGE value="Message" />
+     <option name="LAST_COMMIT_MESSAGE" value="Message" />
++    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
++    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
++    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: Message.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Message.patch b/Message.patch
+new file mode 100644
+--- /dev/null	(date 1651977764751)
++++ b/Message.patch	(date 1651977764751)
+@@ -0,0 +1,167 @@
++Index: .idea/workspace.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/workspace.xml b/.idea/workspace.xml
++--- a/.idea/workspace.xml	(revision e49eba9b072104bbd5d0520065ec6bece5745ad0)
+++++ b/.idea/workspace.xml	(date 1651977755745)
++@@ -5,14 +5,15 @@
++   </component>
++   <component name="ChangeListManager">
++     <list default="true" id="824c6e90-6b3e-4b88-8b73-b083c10ab5d6" name="Changes" comment="Message">
++-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+++      <changelist_data name="GoldieAi" email="102837040+goldieai@users.noreply.github.com" />
++     </list>
++     <option name="SHOW_DIALOG" value="false" />
++     <option name="HIGHLIGHT_CONFLICTS" value="true" />
++     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++     <option name="LAST_RESOLUTION" value="IGNORE" />
+++  </component>
+++  <component name="Git.Merge.Settings">
+++    <option name="BRANCH" value="origin/master" />
++   </component>
++   <component name="Git.Settings">
++     <option name="PREVIOUS_COMMIT_AUTHORS">
++@@ -20,12 +21,19 @@
++         <option value="GoldieAi &lt;102837040+goldieai@users.noreply.github.com&gt;" />
++       </list>
++     </option>
+++    <option name="PUSH_TAGS">
+++      <GitPushTagMode>
+++        <option name="argument" value="--tags" />
+++        <option name="title" value="All" />
+++      </GitPushTagMode>
+++    </option>
++     <option name="RECENT_BRANCH_BY_REPOSITORY">
++       <map>
++-        <entry key="$PROJECT_DIR$" value="889652ee1236dc302f5930765a04cd5a27e6679a" />
+++        <entry key="$PROJECT_DIR$" value="master" />
++       </map>
++     </option>
++     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+++    <option name="SIGN_OFF_COMMIT" value="true" />
++     <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
++   </component>
++   <component name="MarkdownSettingsMigration">
++@@ -39,17 +47,17 @@
++     <option name="hideEmptyMiddlePackages" value="true" />
++     <option name="showLibraryContents" value="true" />
++   </component>
++-  <component name="PropertiesComponent"><![CDATA[{
++-  "keyToString": {
++-    "ASKED_ADD_EXTERNAL_FILES": "true",
++-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
++-    "RunOnceActivity.OpenProjectViewOnStart": "true",
++-    "RunOnceActivity.ShowReadmeOnStart": "true",
++-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
++-    "last_opened_file_path": "C:/Users/Andrew/PycharmProjects/PyCharm-Community-Edition-2021.3.2",
++-    "run.code.analysis.last.selected.profile": "aDefault"
+++  <component name="PropertiesComponent">{
+++  &quot;keyToString&quot;: {
+++    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+++    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+++    &quot;last_opened_file_path&quot;: &quot;C:/Users/Andrew/PycharmProjects/PyCharm-Community-Edition-2021.3.2&quot;,
+++    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;
++   }
++-}]]></component>
+++}</component>
++   <component name="RecentsManager">
++     <key name="MoveFile.RECENT_KEYS">
++       <recent name="C:\Users\Andrew\PycharmProjects\PyCharm-Community-Edition-2021.3.2\IntelliJ IDEA Community Edition 2021.3.3" />
++@@ -101,9 +109,68 @@
++       <option name="project" value="LOCAL" />
++       <updated>1651976184795</updated>
++     </task>
++-    <option name="localTasksCounter" value="3" />
+++    <task id="LOCAL-00003" summary="Create codeql-analysis.yml">
+++      <created>1651977310570</created>
+++      <option name="number" value="00003" />
+++      <option name="presentableId" value="LOCAL-00003" />
+++      <option name="project" value="LOCAL" />
+++      <updated>1651977310570</updated>
+++    </task>
+++    <task id="LOCAL-00004" summary="Create codeql-analysis.yml&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;">
+++      <created>1651977318655</created>
+++      <option name="number" value="00004" />
+++      <option name="presentableId" value="LOCAL-00004" />
+++      <option name="project" value="LOCAL" />
+++      <updated>1651977318655</updated>
+++    </task>
+++    <task id="LOCAL-00005" summary="Create codeql-analysis.yml&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;">
+++      <created>1651977329408</created>
+++      <option name="number" value="00005" />
+++      <option name="presentableId" value="LOCAL-00005" />
+++      <option name="project" value="LOCAL" />
+++      <updated>1651977329408</updated>
+++    </task>
+++    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'">
+++      <created>1651977369060</created>
+++      <option name="number" value="00006" />
+++      <option name="presentableId" value="LOCAL-00006" />
+++      <option name="project" value="LOCAL" />
+++      <updated>1651977369060</updated>
+++    </task>
+++    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;">
+++      <created>1651977376784</created>
+++      <option name="number" value="00007" />
+++      <option name="presentableId" value="LOCAL-00007" />
+++      <option name="project" value="LOCAL" />
+++      <updated>1651977376784</updated>
+++    </task>
+++    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;">
+++      <created>1651977398296</created>
+++      <option name="number" value="00008" />
+++      <option name="presentableId" value="LOCAL-00008" />
+++      <option name="project" value="LOCAL" />
+++      <updated>1651977398296</updated>
+++    </task>
+++    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;">
+++      <created>1651977405379</created>
+++      <option name="number" value="00009" />
+++      <option name="presentableId" value="LOCAL-00009" />
+++      <option name="project" value="LOCAL" />
+++      <updated>1651977405379</updated>
+++    </task>
+++    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/master'">
+++      <created>1651977537828</created>
+++      <option name="number" value="00010" />
+++      <option name="presentableId" value="LOCAL-00010" />
+++      <option name="project" value="LOCAL" />
+++      <updated>1651977537828</updated>
+++    </task>
+++    <option name="localTasksCounter" value="11" />
++     <servers />
++   </component>
+++  <component name="UpdateCopyrightCheckinHandler">
+++    <option name="UPDATE_COPYRIGHT" value="true" />
+++  </component>
++   <component name="Vcs.Log.Tabs.Properties">
++     <option name="TAB_STATES">
++       <map>
++@@ -116,8 +183,19 @@
++     </option>
++   </component>
++   <component name="VcsManagerConfiguration">
+++    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+++    <option name="CODE_SMELLS_PROFILE" value="Default" />
+++    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Default" />
+++    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
++     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+++    <MESSAGE value="Create codeql-analysis.yml" />
+++    <MESSAGE value="Create codeql-analysis.yml&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;" />
+++    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;" />
+++    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
++     <MESSAGE value="Message" />
++     <option name="LAST_COMMIT_MESSAGE" value="Message" />
+++    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+++    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+++    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
++   </component>
++ </project>
++\ No newline at end of file
