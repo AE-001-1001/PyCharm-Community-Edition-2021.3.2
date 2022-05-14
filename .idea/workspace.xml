@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="824c6e90-6b3e-4b88-8b73-b083c10ab5d6" name="Changes" comment="Message">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="824c6e90-6b3e-4b88-8b73-b083c10ab5d6" name="Changes" comment="Merge remote-tracking branch 'origin/dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3' into dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;">
+      <changelist_data name="AndrewOMA" email="102845355+verbalkill@users.noreply.github.com" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,22 +15,39 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="AndrewOMA &lt;102845355+verbalkill@users.noreply.github.com&gt;" />
+        <option value="dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;" />
         <option value="GoldieAi &lt;102837040+goldieai@users.noreply.github.com&gt;" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="889652ee1236dc302f5930765a04cd5a27e6679a" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="master" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28rN7Yqi2wbBlgfuXfXUKkXngPS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -46,8 +61,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Andrew/PycharmProjects/PyCharm-Community-Edition-2021.3.2",
-    "run.code.analysis.last.selected.profile": "aDefault"
+    "com.intellij.codeInspection.ui.actions.InspectionResultsExportActionProvider.location": "C:\\Program Files (x86)\\Google",
+    "last_opened_file_path": "C:/Program Files (x86)",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -101,7 +117,63 @@
       <option name="project" value="LOCAL" />
       <updated>1651976184795</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1652554501113</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652554501113</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1652554537932</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652554537932</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1652554578752</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652554578752</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1652554618796</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652554618796</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Bump moment from 2.29.1 to 2.29.3 in /SpaceX-API-master&#10;&#10;Bumps [moment](https://github.com/moment/moment) from 2.29.1 to 2.29.3.&#10;- [Release notes](https://github.com/moment/moment/releases)&#10;- [Changelog](https://github.com/moment/moment/blob/2.29.3/CHANGELOG.md)&#10;- [Commits](https://github.com/moment/moment/compare/2.29.1...2.29.3)&#10;&#10;---&#10;updated-dependencies:&#10;- dependency-name: moment&#10;  dependency-type: indirect&#10;...&#10;&#10;Signed-off-by: dependabot[bot] &lt;support@github.com&gt;">
+      <created>1652554723281</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652554723281</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3' into dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;">
+      <created>1652554956136</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652554956136</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3' into dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;">
+      <created>1652554975319</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652554975319</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3' into dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;">
+      <created>1652554980611</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1652554980611</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,7 +181,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -118,6 +202,9 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Message" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="Bump moment from 2.29.1 to 2.29.3 in /SpaceX-API-master&#10;&#10;Bumps [moment](https://github.com/moment/moment) from 2.29.1 to 2.29.3.&#10;- [Release notes](https://github.com/moment/moment/releases)&#10;- [Changelog](https://github.com/moment/moment/blob/2.29.3/CHANGELOG.md)&#10;- [Commits](https://github.com/moment/moment/compare/2.29.1...2.29.3)&#10;&#10;---&#10;updated-dependencies:&#10;- dependency-name: moment&#10;  dependency-type: indirect&#10;...&#10;&#10;Signed-off-by: dependabot[bot] &lt;support@github.com&gt;" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3' into dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3' into dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;" />
   </component>
 </project>
