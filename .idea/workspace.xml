@@ -25,7 +25,7 @@
         <entry key="$PROJECT_DIR$" value="889652ee1236dc302f5930765a04cd5a27e6679a" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../Program Files/Google" />
     <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -33,23 +33,24 @@
   </component>
   <component name="ProjectId" id="28rN7Yqi2wbBlgfuXfXUKkXngPS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Andrew/PycharmProjects/PyCharm-Community-Edition-2021.3.2",
-    "run.code.analysis.last.selected.profile": "aDefault"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Andrew/PycharmProjects/PyCharm-Community-Edition-2021.3.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Andrew\PycharmProjects\PyCharm-Community-Edition-2021.3.2\IntelliJ IDEA Community Edition 2021.3.3" />
@@ -101,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651976184795</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;&#10;Signed-off-by: AndrewOMA &lt;102845355+VerbalKill@users.noreply.github.com&gt;&#10;Merge remote-tracking branch 'origin/master'">
+      <created>1653427704913</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653427704913</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +126,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Message" />
+    <MESSAGE value="Merge remote-tracking branch&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;&#10;Signed-off-by: AndrewOMA &lt;102845355+VerbalKill@users.noreply.github.com&gt;&#10;Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;&#10;Signed-off-by: AndrewOMA &lt;102845355+VerbalKill@users.noreply.github.com&gt;&#10;Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>
