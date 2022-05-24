@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="824c6e90-6b3e-4b88-8b73-b083c10ab5d6" name="Changes" comment="Message">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="824c6e90-6b3e-4b88-8b73-b083c10ab5d6" name="Changes" comment="Merge branch 'master' into dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3&#10;&#10;Signed-off-by: AndrewOMA &lt;102845355+VerbalKill@users.noreply.github.com&gt;&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change beforePath="$PROJECT_DIR$/yes" beforeDir="false" afterPath="$PROJECT_DIR$/yes" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,34 +20,43 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="889652ee1236dc302f5930765a04cd5a27e6679a" />
+        <entry key="$PROJECT_DIR$" value="hackk" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="master" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28rN7Yqi2wbBlgfuXfXUKkXngPS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Andrew/PycharmProjects/PyCharm-Community-Edition-2021.3.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Andrew/PycharmProjects/PyCharm-Community-Edition-2021.3.2",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "ide.date.format"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Andrew\PycharmProjects\PyCharm-Community-Edition-2021.3.2\IntelliJ IDEA Community Edition 2021.3.3" />
@@ -101,7 +108,28 @@
       <option name="project" value="LOCAL" />
       <updated>1651976184795</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge branch 'master' into dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3&#10;&#10;Signed-off-by: AndrewOMA &lt;102845355+VerbalKill@users.noreply.github.com&gt;&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1653376919021</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653376919021</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge branch 'master' into dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3&#10;&#10;Signed-off-by: AndrewOMA &lt;102845355+VerbalKill@users.noreply.github.com&gt;&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1653398282719</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653398282719</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge branch 'master' into dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3&#10;&#10;Signed-off-by: AndrewOMA &lt;102845355+VerbalKill@users.noreply.github.com&gt;&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1653398840818</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653398840818</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +146,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Message" />
+    <MESSAGE value="Create codeql-analysis.yml" />
+    <MESSAGE value="Merge branch 'master' into dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3&#10;&#10;Signed-off-by: AndrewOMA &lt;102845355+VerbalKill@users.noreply.github.com&gt;&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' into dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3&#10;&#10;Signed-off-by: AndrewOMA &lt;102845355+VerbalKill@users.noreply.github.com&gt;&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>
