@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="824c6e90-6b3e-4b88-8b73-b083c10ab5d6" name="Changes" comment="Merge branch 'ALJ'&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;" />
+    <list default="true" id="824c6e90-6b3e-4b88-8b73-b083c10ab5d6" name="Changes" comment="Merge branch 'ALJ'&#10;&#10;Signed-off-by: VerbalKil &lt;andrewoma999@icloud.com&gt;">
+      <change beforePath="$PROJECT_DIR$/yes" beforeDir="false" afterPath="$PROJECT_DIR$/yes" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,6 +114,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.GoldieSavior" />
+      <item itemvalue="Python.tokenize" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.tokenize" />
@@ -213,6 +219,9 @@
     </task>
     <option name="localTasksCounter" value="13" />
     <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
