@@ -1,13 +1,14 @@
 {
-  "configurations": [
-
-    {
-      "name": "Debuggee",
-      "type": "python",
-      "request": "launch",
-      "program": "${file}",
-      "console": "integratedTerminal",
-      "justMyCode": true
-    }
-  ]
+    "configurations": [
+        {
+            "name": "Debuggee",
+            "type": "python",
+            "request":"launch",
+            "program": "${python_path_}/python.exe",
+            "args": [
+                "${python_path_}/debuggee"
+            ],
+        }
+    ]
 }
+ 
