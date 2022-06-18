@@ -1,6 +1,18 @@
 {
     "configurations": [
         {
+            "name": "Debuggee",
+            "type": "python",
+            "request":"launch",
+            "program": "${python_path_}/python.exe",
+            "args": [
+                "${python_path_}/debuggee"
+            ],
+        }
+    ]
+}
+ 
+=======
             "name": "Attach to Chrome",
             "port": 9222,
             "request": "attach",
@@ -15,3 +27,4 @@
     }
     ]
 }
+
