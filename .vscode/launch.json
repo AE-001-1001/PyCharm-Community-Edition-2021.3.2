@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Debuggee",
+            "type": "python",
+            "request":"launch",
+            "program": "${python_path_}/python.exe",
+            "args": [
+                "${python_path_}/debuggee"
+            ],
+        }
+    ]
+}
+ 
+=======
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${D:D:IntelliJ IDEA Community Edition 2021.3.3}"
+        },
+    {
+        "name": "PowerShell Interactive Session",
+        "type": "PowerShell",
+        "request": "launch",
+        "cwd": ""
+    }
+    ]
+}
+
