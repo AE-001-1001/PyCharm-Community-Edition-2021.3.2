@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "SpaceX-API-master",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": [],
+			"label": "npm: install - SpaceX-API-master",
+			"detail": "install dependencies from package"
+		}
+	]
+}
