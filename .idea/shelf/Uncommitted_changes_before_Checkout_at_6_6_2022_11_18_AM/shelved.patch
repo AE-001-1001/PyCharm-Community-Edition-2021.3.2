@@ -1,0 +1,48 @@
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+--- a/.idea/modules.xml	
++++ b/.idea/modules.xml	
+@@ -27,6 +27,7 @@
+       <module fileurl="file://$PROJECT_DIR$/opensource.guide-main/.idea/opensource.guide-main.iml" filepath="$PROJECT_DIR$/opensource.guide-main/.idea/opensource.guide-main.iml" />
+       <module fileurl="file://$PROJECT_DIR$/openstates-master/.idea/openstates-master.iml" filepath="$PROJECT_DIR$/openstates-master/.idea/openstates-master.iml" />
+       <module fileurl="file://$PROJECT_DIR$/openstates-scrapers-main/.idea/openstates-scrapers-main.iml" filepath="$PROJECT_DIR$/openstates-scrapers-main/.idea/openstates-scrapers-main.iml" />
++      <module fileurl="file://$PROJECT_DIR$/people-main/.idea/people-main.iml" filepath="$PROJECT_DIR$/people-main/.idea/people-main.iml" />
+       <module fileurl="file://$PROJECT_DIR$/pyscripter-4.0.0/.idea/pyscripter-4.0.0.iml" filepath="$PROJECT_DIR$/pyscripter-4.0.0/.idea/pyscripter-4.0.0.iml" />
+       <module fileurl="file://$PROJECT_DIR$/python-versions-3.11.0-beta.3-2426661815/.idea/python-versions-3.11.0-beta.3-2426661815.iml" filepath="$PROJECT_DIR$/python-versions-3.11.0-beta.3-2426661815/.idea/python-versions-3.11.0-beta.3-2426661815.iml" />
+       <module fileurl="file://$PROJECT_DIR$/python4delphi-python2/.idea/python4delphi-python2.iml" filepath="$PROJECT_DIR$/python4delphi-python2/.idea/python4delphi-python2.iml" />
+@@ -37,6 +38,7 @@
+       <module fileurl="file://$PROJECT_DIR$/star-destroyer-master/.idea/star-destroyer-master.iml" filepath="$PROJECT_DIR$/star-destroyer-master/.idea/star-destroyer-master.iml" />
+       <module fileurl="file://$PROJECT_DIR$/toolkit-main/.idea/toolkit-main.iml" filepath="$PROJECT_DIR$/toolkit-main/.idea/toolkit-main.iml" />
+       <module fileurl="file://$PROJECT_DIR$/tools/.idea/tools.iml" filepath="$PROJECT_DIR$/tools/.idea/tools.iml" />
++      <module fileurl="file://$PROJECT_DIR$/translations/.idea/translations.iml" filepath="$PROJECT_DIR$/translations/.idea/translations.iml" />
+       <module fileurl="file://$PROJECT_DIR$/upload-pages-artifact-main/.idea/upload-pages-artifact-main.iml" filepath="$PROJECT_DIR$/upload-pages-artifact-main/.idea/upload-pages-artifact-main.iml" />
+       <module fileurl="file://$PROJECT_DIR$/virtual-environments-ubuntu22-20220601.2/.idea/virtual-environments-ubuntu22-20220601.2.iml" filepath="$PROJECT_DIR$/virtual-environments-ubuntu22-20220601.2/.idea/virtual-environments-ubuntu22-20220601.2.iml" />
+       <module fileurl="file://$PROJECT_DIR$/web.dev-main/.idea/web.dev-main.iml" filepath="$PROJECT_DIR$/web.dev-main/.idea/web.dev-main.iml" />
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+--- a/.idea/modules.xml	
++++ b/.idea/modules.xml	
+@@ -27,6 +27,7 @@
+       <module fileurl="file://$PROJECT_DIR$/opensource.guide-main/.idea/opensource.guide-main.iml" filepath="$PROJECT_DIR$/opensource.guide-main/.idea/opensource.guide-main.iml" />
+       <module fileurl="file://$PROJECT_DIR$/openstates-master/.idea/openstates-master.iml" filepath="$PROJECT_DIR$/openstates-master/.idea/openstates-master.iml" />
+       <module fileurl="file://$PROJECT_DIR$/openstates-scrapers-main/.idea/openstates-scrapers-main.iml" filepath="$PROJECT_DIR$/openstates-scrapers-main/.idea/openstates-scrapers-main.iml" />
++      <module fileurl="file://$PROJECT_DIR$/people-main/.idea/people-main.iml" filepath="$PROJECT_DIR$/people-main/.idea/people-main.iml" />
+       <module fileurl="file://$PROJECT_DIR$/pyscripter-4.0.0/.idea/pyscripter-4.0.0.iml" filepath="$PROJECT_DIR$/pyscripter-4.0.0/.idea/pyscripter-4.0.0.iml" />
+       <module fileurl="file://$PROJECT_DIR$/python-versions-3.11.0-beta.3-2426661815/.idea/python-versions-3.11.0-beta.3-2426661815.iml" filepath="$PROJECT_DIR$/python-versions-3.11.0-beta.3-2426661815/.idea/python-versions-3.11.0-beta.3-2426661815.iml" />
+       <module fileurl="file://$PROJECT_DIR$/python4delphi-python2/.idea/python4delphi-python2.iml" filepath="$PROJECT_DIR$/python4delphi-python2/.idea/python4delphi-python2.iml" />
+@@ -37,6 +38,7 @@
+       <module fileurl="file://$PROJECT_DIR$/star-destroyer-master/.idea/star-destroyer-master.iml" filepath="$PROJECT_DIR$/star-destroyer-master/.idea/star-destroyer-master.iml" />
+       <module fileurl="file://$PROJECT_DIR$/toolkit-main/.idea/toolkit-main.iml" filepath="$PROJECT_DIR$/toolkit-main/.idea/toolkit-main.iml" />
+       <module fileurl="file://$PROJECT_DIR$/tools/.idea/tools.iml" filepath="$PROJECT_DIR$/tools/.idea/tools.iml" />
++      <module fileurl="file://$PROJECT_DIR$/translations/.idea/translations.iml" filepath="$PROJECT_DIR$/translations/.idea/translations.iml" />
+       <module fileurl="file://$PROJECT_DIR$/upload-pages-artifact-main/.idea/upload-pages-artifact-main.iml" filepath="$PROJECT_DIR$/upload-pages-artifact-main/.idea/upload-pages-artifact-main.iml" />
+       <module fileurl="file://$PROJECT_DIR$/virtual-environments-ubuntu22-20220601.2/.idea/virtual-environments-ubuntu22-20220601.2.iml" filepath="$PROJECT_DIR$/virtual-environments-ubuntu22-20220601.2/.idea/virtual-environments-ubuntu22-20220601.2.iml" />
+       <module fileurl="file://$PROJECT_DIR$/web.dev-main/.idea/web.dev-main.iml" filepath="$PROJECT_DIR$/web.dev-main/.idea/web.dev-main.iml" />
