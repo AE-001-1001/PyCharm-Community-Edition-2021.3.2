@@ -17,7 +17,7 @@ def test_base_model_simplenamespace_simple():
 
     bm3 = BaseModel(**payload3)
     assert bm3.list == [10, UnknownModel(**payload3["list"][1])]
-
+    return print(bm1,bm2)
 
 def test_base_model_repr():
     from pyrh.models.base import BaseModel

@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "VSC projects",
+			"path": "..\\..\\..\\..\\..\\Program Files (x86)\\VSC projects"
+		},
+		{
+			"name": "PycharmProjects",
+			"path": "..\\..\\..\\PycharmProjects"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Program Files (x86)\\Google"
+		},
+		{
+			"path": "..\\..\\.."
+		}
+	],
+	"settings": {}
+}
