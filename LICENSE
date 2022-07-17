@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Eclipse Public License - v 2.0
 
     THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE
@@ -276,7 +276,6 @@ version(s), and exceptions or additional permissions here}."
   look for such a notice.
 
   You may add additional accurate notices of copyright ownership.
-=======
 The MIT License (MIT)
 
 Copyright (c) 2020 Unofficial Robinhood Python API Developers
@@ -298,4 +297,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
->>>>>>> dependabot/npm_and_yarn/SpaceX-API-master/moment-2.29.3
+
